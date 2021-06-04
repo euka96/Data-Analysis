@@ -133,3 +133,7 @@ dmypy.json
 
 # .ipynb_checkpoints
 *.ipynb_checkpoints
+
+# API key
+road api.txt
+kakao api.txt
