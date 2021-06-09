@@ -137,3 +137,6 @@ dmypy.json
 # API key
 road api.txt
 kakao api.txt
+
+# MySQL.json
+mysql.json
